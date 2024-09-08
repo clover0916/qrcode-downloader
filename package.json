@@ -15,12 +15,23 @@
     "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@cfworker/uuid": "^2.1.0",
+    "@fontsource-variable/noto-sans-jp": "^5.0.20",
+    "@fontsource-variable/outfit": "^5.0.15",
+    "@radix-ui/react-label": "^2.1.0",
+    "@radix-ui/react-slot": "^1.1.0",
     "@remix-run/cloudflare": "^2.11.1",
     "@remix-run/cloudflare-pages": "^2.11.1",
     "@remix-run/react": "^2.11.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
     "isbot": "^4.1.0",
+    "lucide-react": "^0.439.0",
+    "qrcode.react": "^4.0.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "tailwind-merge": "^2.5.2",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240903.0",
